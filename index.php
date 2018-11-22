@@ -1,4 +1,3 @@
 <?php
 
-echo '干得漂亮！';
-echo '999';
+echo '测试WEB_HOOK.SH';
