@@ -20,4 +20,3 @@ exec('./web_hooks.sh', $res);
 //使用php来执行bash命令
 
 var_dump($res);
-//如果自动更新不成功，可手动执行这个文件，查看错误。
