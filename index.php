@@ -1,3 +1,3 @@
 <?php
 
-echo '测试WEB_HOOK.SH  6';
+echo '测试WEB_HOOK.SH 7';
